@@ -196,29 +196,7 @@
             "price": 29,
             "availableSizes": ["XS", "S", "M", "XL"],
             "star": 5
-        },
-        {
-            "_id": 19,
-            "image": "./images/dresses/dress19.jpg",
-            "image2": "./images/dresses/dress19.1.jpg",
-            "image3": "./images/dresses/dress19.2.jpg",
-            "title": "Cold Shoulder Bodycon Dress",
-            "description": "Front cut outs are in. This is the cold shoulder bodycon dress to show off your form.",
-            "price": 39,
-            "availableSizes": ["XS", "S", "M", "XL"],
-            "star": 3
-        },
-        {
-            "_id": 20,
-            "image": "./images/dresses/dress20.jpg",
-            "image2": "./images/dresses/dress20.1.jpg",
-            "image3": "./images/dresses/dress20.2.jpg",
-            "title": "Smocked Detail Maxi Dress",
-            "description": "Exposed shoulders and form-fitting smocked texture define the bodice of this piece, while the impressive slit skirt sways in the other direction with graceful, flowy, maxi length coverage.",
-            "price": 44,
-            "availableSizes": ["XS", "XL"],
-            "star": 5
         }
-
+      
     ]
 }
