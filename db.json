@@ -1,15 +1,10 @@
 {
     "products": [
-        {
-            "_id": 8,
-            "title": "V-Neck Sweater Dress",
-            "description": "Sweater dresses don't always have to be casual! This slinky style has a snug bodycon fit from the elbows and waist down, with a ruched V-neck bodice for extra seductive flair!.",
-            "price": 39,
-            "availableSizes": ["S", "M"],
-            "star": 4
-        },
-        {
+       {
             "_id": 9,
+            "image": "/learnreact/images/dresses/dress9.jpg",
+            "image2": "/learnreact/images/dresses/dress9.1.jpg",
+            "image3": "/learnreact/images/dresses/dress9.2.jpg",
             "title": "Strapless Maxi Dress",
             "description": "More comfortable than shorts or pants, and much more elegant! This strapless maxi dress is sensuous and sports a gentle ruching across the bodice that has a slimming effect on your silhouette. The pockets keep it casual and the maxi length can support heels, flats or wedges. Crank up your feminine allure while maintaining your cool comfort!",
             "price": 54,
@@ -18,6 +13,9 @@
         },
         {
             "_id": 10,
+            "image": "/learnreact/images/dresses/dress10.jpg",
+            "image2": "/learnreact/images/dresses/dress10.1.jpg",
+            "image3": "/learnreact/images/dresses/dress10.2.jpg",
             "title": "Lace Inset V-Neck Dress",
             "description": "When it comes to maxi dresses, instead of opting for the traditional sheath or bodycon, try a bewitching A-line adorned with delicate lace. insets Fully lined underneath its sheer overlay, this piece exudes sensuality with a peek of skin at the midriff and a deep plunge neckline.",
             "price": 89,
@@ -26,6 +24,9 @@
         },
         {
             "_id": 11,
+            "image": "/learnreact/images/dresses/dress11.jpg",
+            "image2": "/learnreact/images/dresses/dress11.1.jpg",
+            "image3": "/learnreact/images/dresses/dress11.2.jpg",
             "title": "Neck Tie Plaid Dress",
             "description": "Looking perfectly pulled-together has never been less of hassle. This twofer style Neck Tie Plaid Dress showcases a ladylike demeanor, complete with a vintage-inspired bow at the neck. Bouncy balloon sleeves retain a playful side to this piece, while still looking refined enough for all your professional affairs.",
             "price": 40,
@@ -34,6 +35,9 @@
         },
         {
             "_id": 12,
+            "image": "/learnreact/images/dresses/dress12.jpg",
+            "image2": "/learnreact/images/dresses/dress12.1.jpg",
+            "image3": "/learnreact/images/dresses/dress12.2.jpg",
             "title": "French Terry Wrap Dress",
             "description": "From dawn to dusk, our French Terry Wrap Dress keeps you feeling cozy and confident. In ultra soft fabrication, a deep surplice V-neck bodice gives way to the oversized front knot and flirty asymmetrical length that define this loungewear must-have.",
             "price": 100,
@@ -42,9 +46,9 @@
         },
         {
             "_id": 13,
-            "image": "./images/dresses/dress13.jpg",
-            "image2": "./images/dresses/dress13.1.jpg",
-            "image3": "./images/dresses/dress13.2.jpg",
+            "image": "/learnreact/images/dresses/dress13.jpg",
+            "image2": "/learnreact/images/dresses/dress13.1.jpg",
+            "image3": "/learnreact/images/dresses/dress13.2.jpg",
             "title": "Sleeve Detail Dress",
             "description": "Your favorite little go-to dress gets a refresh with a scoop neck and slits at the long sleeves. Loose and comfortable, this A-line beauty is ready to be added to your closet.",
             "price": 39,
@@ -53,9 +57,9 @@
         },
         {
             "_id": 14,
-            "image": "./images/dresses/dress14.jpg",
-            "image2": "./images/dresses/dress14.1.jpg",
-            "image3": "./images/dresses/dress14.2.jpg",
+            "image": "/learnreact/images/dresses/dress14.jpg",
+            "image2": "/learnreact/images/dresses/dress14.1.jpg",
+            "image3": "/learnreact/images/dresses/dress14.2.jpg",
             "title": "Strapless Print Maxi Dress",
             "description": "Let our Strapless Print Maxi Dress drive your confidence. A universally-flattering A Line silhouette that is gently ruched across the bodice, this must-have maxi plays up your feminine form in a comfortable fit you'll love (bonus: it has POCKETS!)",
             "price": 59,
@@ -64,9 +68,9 @@
         },
         {
             "_id": 15,
-            "image": "./images/dresses/dress15.jpg",
-            "image2": "./images/dresses/dress15.1.jpg",
-            "image3": "./images/dresses/dress15.2.jpg",
+            "image": "/learnreact/images/dresses/dress15.jpg",
+            "image2": "/learnreact/images/dresses/dress15.1.jpg",
+            "image3": "/learnreact/images/dresses/dress15.2.jpg",
             "title": "Tie Front V-Neck Midi Dress",
             "description": "An easy going yet alluring look, this tie detail dress is ready to do all the favors. Sexy surplice bodice creates a V neckline. High low hem elongates your figure and tie waist complements your curves. Pair with your favorite heels to complete the look!",
             "price": 36,
@@ -75,9 +79,9 @@
         },
         {
             "_id": 16,
-            "image": "./images/dresses/dress16.jpg",
-            "image2": "./images/dresses/dress16.1.jpg",
-            "image3": "./images/dresses/dress16.2.jpg",
+            "image": "/learnreact/images/dresses/dress16.jpg",
+            "image2": "/learnreact/images/dresses/dress16.1.jpg",
+            "image3": "/learnreact/images/dresses/dress16.2.jpg",
             "title": "Ruched V-Neck Dress",
             "description": "All over ruching gives you a dressy look in this bodycon fit. This sensual V-neck silhouette comes in stretch fabric that hugs and flatters a wide range of body types, because comfort is ALWAYS the key to confidence.",
             "price": 39,
@@ -86,9 +90,9 @@
         },
         {
             "_id": 17,
-            "image": "./images/dresses/dress17.jpg",
-            "image2": "./images/dresses/dress17.1.jpg",
-            "image3": "./images/dresses/dress17.2.jpg",
+            "image": "/learnreact/images/dresses/dress17.jpg",
+            "image2": "/learnreact/images/dresses/dress17.1.jpg",
+            "image3": "/learnreact/images/dresses/dress17.2.jpg",
             "title": "Deep V Trim Cocktail Dress",
             "description": "The party doesn't officially start until the girl in this deep V-neck cocktail dress arrives! The beaded and rhinestone details adorning the low cut neckline shape the bust and speak to your daring nature and originality.",
             "price": 49,
@@ -97,15 +101,38 @@
         },
         {
             "_id": 18,
-            "image": "./images/dresses/dress18.jpg",
-            "image2": "./images/dresses/dress18.1.jpg",
-            "image3": "./images/dresses/dress18.2.jpg",
+            "image": "/learnreact/images/dresses/dress18.jpg",
+            "image2": "/learnreact/images/dresses/dress18.1.jpg",
+            "image3": "/learnreact/images/dresses/dress18.2.jpg",
             "title": "Mock Neck Ribbed Dress",
             "description": "Essential for breezy evenings, this season-to-season dress flaunts your form in comfy ribbed coverage. The mock neckline features a subtle frilly shape for added interest.",
             "price": 29,
             "availableSizes": ["XS", "S", "M", "XL"],
             "star": 5
+        },
+        {
+            "_id": 19,
+            "image": "/learnreact/images/dresses/dress19.jpg",
+            "image2": "/learnreact/images/dresses/dress19.1.jpg",
+            "image3": "/learnreact/images/dresses/dress19.2.jpg",
+            "title": "Cold Shoulder Bodycon Dress",
+            "description": "Front cut outs are in. This is the cold shoulder bodycon dress to show off your form.",
+            "price": 39,
+            "availableSizes": ["XS", "S", "M", "XL"],
+            "star": 3
+        },
+        {
+            "_id": 20,
+            "image": "/learnreact/images/dresses/dress20.jpg",
+            "image2": "/learnreact/images/dresses/dress20.1.jpg",
+            "image3": "/learnreact/images/dresses/dress20.2.jpg",
+            "title": "Smocked Detail Maxi Dress",
+            "description": "Exposed shoulders and form-fitting smocked texture define the bodice of this piece, while the impressive slit skirt sways in the other direction with graceful, flowy, maxi length coverage.",
+            "price": 44,
+            "availableSizes": ["XS", "XL"],
+            "star": 5
         }
+
       
     ]
 }
